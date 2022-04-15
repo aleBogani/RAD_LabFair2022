@@ -1,0 +1,3 @@
+For a playable version of the target-shooting video game, follow this link:
+
+https://htmlpreview.github.io/?https://github.com/aleBogani/DS_Day/blob/main/Task_Example.html
